@@ -10,11 +10,24 @@ p {
 color:darkslategray
 }
 
-div
-{
-background-color:whitesmoke;
-width:500px;
+.main-body{
+font-size: 20px;
+
+
 }
+
+.top-section {
+
+
+}
+
+.bottom-section {
+
+
+
+}
+
+
 span{
 
 color: brown;
