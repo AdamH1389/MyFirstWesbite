@@ -1,3 +1,9 @@
+body{
+    background-image:url(../images/geobg.jpg);
+
+}
+
+
 h1{
 text-align: center;
 }
@@ -12,6 +18,7 @@ text-align: center;
 
 
 .leftbox{
+    background-image:url(../images/gradient.jpg);
     background-color: lightgray;
     text-align: center;
     width:auto;
@@ -22,6 +29,7 @@ text-align: center;
     padding: 30px 30px 30px 30px;
 }
 .middlebox{
+    background-image:url(../images/gradient.jpg);
     background-color: lightgray;
     text-align: center;
     width:auto;
@@ -33,6 +41,7 @@ text-align: center;
     }
 
 .rightbox{
+    background-image:url(../images/gradient.jpg);
     background-color: lightgray;
     text-align: center;
     width:auto;
