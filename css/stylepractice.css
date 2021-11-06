@@ -1,0 +1,59 @@
+body{
+    background-image:url(../images/geobg.jpg);
+
+}
+
+
+h1{
+text-align: center;
+}
+
+
+.grid{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 20px;
+}
+
+
+
+.leftbox{
+    background-image:url(../images/gradient.jpg);
+    background-color: lightgray;
+    text-align: center;
+    width:auto;
+    margin:20px;
+    border-width: 5px;
+    border-color:black;
+    border-style:solid;
+    padding: 30px 30px 30px 30px;
+}
+.middlebox{
+    background-image:url(../images/gradient.jpg);
+    background-color: lightgray;
+    text-align: center;
+    width:auto;
+    margin:20px;
+    border-width: 5px;
+    border-color:black;
+    border-style:solid;
+    padding: 30px 30px 30px 30px;
+    }
+
+.rightbox{
+    background-image:url(../images/gradient.jpg);
+    background-color: lightgray;
+    text-align: center;
+    width:auto;
+    margin:20px;
+    border-width: 5px;
+    border-color:black;
+    border-style:solid;
+    padding: 30px 30px 30px 30px;
+        }
+
+.penguinimage {
+        
+        text-align: center;
+      
+}

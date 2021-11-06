@@ -1,0 +1,28 @@
+body {
+    background-color: #a7dbe3;
+    color: #2f4c5c;
+    font-size: 21px;
+
+    font-family: 'futura', sans-serif;
+}
+
+/**cannot use any font. Have to be fonts that are on someone else's computer **/
+
+h1 {
+    font-size: 70px;
+    color: #3747b3;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    margin-bottom: 0px;
+
+}
+
+h2 {
+    margin-top: 0px;
+
+}
+
+p{
+    margin-bottom: 0px;
+    line-height: 25px;
+    
+}

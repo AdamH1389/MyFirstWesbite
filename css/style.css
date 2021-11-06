@@ -1,0 +1,62 @@
+body {
+background-color: aliceblue;
+color:black;
+font-size: 21px;
+background-image:url(../images/frogbg.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+background-position: center;
+
+}
+
+p {
+color:darkslategray
+}
+
+.main-body{
+font-size: 20px;
+
+
+}
+
+.top-section {
+
+
+}
+
+.bottom-section {
+
+
+
+}
+
+
+span{
+
+color: brown;
+font-size: 40px;
+
+
+}
+
+/*this is the css box model
+Margin
+Border - requires width style color. width/colour default. style must be filled. can be done with one line. 
+Padding
+ */
+
+.box{
+    background-image: url(../images/FROG.jpg);
+    color:red;
+    width:300px;
+    margin:100px;
+    border-width: 5px;
+    border-color: red;
+    border-style:solid;
+    padding: 30px 100px 20px 50px;
+       /*top right bottom left*/
+}
+.Test{
+    color:black;
+
+}
