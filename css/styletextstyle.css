@@ -24,5 +24,17 @@ h2 {
 p{
     margin-bottom: 0px;
     line-height: 25px;
+    font-weight:100;
+    text-align: center;
     
+}
+
+.bolder {
+    font-weight:400;
+    text-decoration: overline;
+    text-transform:capitalize;
+    -moz-text-decoration-style: dotted;
+}
+.bold {
+    font-weight: bold;
 }
