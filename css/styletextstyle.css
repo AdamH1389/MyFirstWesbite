@@ -33,8 +33,42 @@ p{
     font-weight:400;
     text-decoration: overline;
     text-transform:capitalize;
-    -moz-text-decoration-style: dotted;
-}
+   }
 .bold {
     font-weight: bold;
 }
+
+a {
+
+color:black;
+
+}
+
+
+a:link{
+color:thistle;
+}
+
+
+a:visited{
+color: hotpink;
+}
+
+a:active{
+color:blue;
+
+}
+
+a:focus{
+color:brown;
+
+
+}
+
+
+a:hover{
+    color:rgb(204, 52, 6);
+    font-size: larger;
+    }
+
+    /**link vistied active hover in that order **\
